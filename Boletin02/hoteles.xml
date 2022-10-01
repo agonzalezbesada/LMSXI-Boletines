@@ -6,3 +6,32 @@
     habitaciones triples, suites.
     Probar si es un documento bien formado.
 -->
+
+<hoteles>
+    <hotel>
+        <nombre>Norat</nombre>
+        <telefono>633 33 33 33</telefono>
+        <direccion>A xunqueira nº1</direccion>
+        <ciudad>Pontevedra</ciudad>
+        <pais>España</pais>
+        <estrellas>3</estrellas>
+        <descripcion>Hotel al lado de la ria con vistas al museo de arte</descripcion>
+        <habitacionesindividuales>600</habitacionesindividuales>
+        <habitacionesdobles>20</habitacionesdobles>
+        <habitacionestriples>10</habitacionestriples>
+        <suites>1</suites>   
+    </hotel>
+    <hotel>
+        <nombre>Palmeira</nombre>
+        <telefono>644 44 44 44</telefono>
+        <direccion>García Borbon nº2</direccion>
+        <ciudad>Santiago</ciudad>
+        <pais>España</pais>
+        <estrellas>5</estrellas>
+        <descripcion>Hotel rústico con vistas a la catedral</descripcion>
+        <habitacionesindividuales>300</habitacionesindividuales>
+        <habitacionesdobles>30</habitacionesdobles>
+        <habitacionestriples>15</habitacionestriples>
+        <suites>3</suites>   
+    </hotel>
+</hoteles>
